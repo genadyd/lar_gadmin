@@ -1,0 +1,17 @@
+{
+    "name": "genadyd/lar_gadmin",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Genadyd\\LarGadmin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "genadyd",
+            "email": "g.dorodny@duplitrade.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
