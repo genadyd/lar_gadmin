@@ -1,0 +1,12 @@
+body {
+  background-color: red;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: none;
+  max-height: 100vh;
+  max-width: 100vh;
+}
+body .some {
+  width: 100%;
+}
