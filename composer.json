@@ -13,5 +13,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "doctrine/dbal": "4.0.x-dev"
+    }
 }
